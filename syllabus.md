@@ -2,14 +2,17 @@
 
 University of California, Santa Cruz  
 fall term 2025, online  
+|     |     |
+| --- | --- |
+| instructor | Dr. Abram Stern \<aphid@ucsc.edu\> | 
+| pronouns | _they/them/theirs_ or _he/him/his_ |
+| office hours | on element, by appointment \[TBD\] |
+|              | Book a 15 minute appointment here (tbd). |  
+|              | Zoom link: \[TBD\]  
 
-**instructor**  
-Professor Abram Stern \<aphid@ucsc.edu\>  
-Pronouns: they/them/theirs or he/him/his  
-oﬃce hours: on Zoom, by appointment \[TBD\]  
-Book a 15 minute appointment here: \[TBD\]  
-Zoom link: \[TBD\]  
-for more pressing concerns, please send me email: aphid@ucsc.edu
+# **QUICK LINKS**
+
+* [Code Talkthroughs](https://170a-2025-f.github.io/))
 
 # **COURSE CATALOG DESCRIPTION**
 
