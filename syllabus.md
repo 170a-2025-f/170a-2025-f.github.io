@@ -11,7 +11,7 @@ fall term 2025, online
 |              | Zoom link: \[TBD\]  
 
 # **QUICK LINKS**
-
+* [Weekly Schedule](#week-by-week)
 * [Code Talkthroughs](https://170a-2025-f.github.io/))
 
 # **COURSE CATALOG DESCRIPTION**
@@ -143,7 +143,7 @@ F \< 60% to 0%
 
 # **SCHEDULE**
 
-Every week you are invited to attend oﬃce hours with the instructor alone or with your working group. You might also consider having your working group convene for an hour or so every week without the instructor. Most weeks you will have a project due on Friday (before midnight) and critiques of your classmates’ project work will be due on Mondays (with one exception due to the holiday on Monday, November 11th). During the ﬁrst days of the term, you will need to do a number of things including setting up (free) accounts for both Drop Box (https://www.dropbox.com/) and Code Pen (https://codepen.io/). A to-do list is given in the ﬁrst module, “Orientation,” posted at the top of the course’s Canvas site.
+Every week you are invited to attend oﬃce hours with the instructor alone or with your working group. You might also consider having your working group convene for an hour or so every week without the instructor. Most weeks you will have a project due on Friday (before midnight) and critiques of your classmates’ project work will be due on Mondays (with one exception due to the holiday on Monday, November 10th). During the ﬁrst days of the term, you will need to do a number of things including setting up (free) accounts for both Drop Box (https://www.dropbox.com/) and Code Pen (https://codepen.io/). A to-do list is given in the ﬁrst module, “Orientation,” posted at the top of the course’s Canvas site.
 
 Pamela Fox, former Chief Content Creator for Computer Science at Khan Academy then a lecturer at Berkeley now at Microsoft (https://www.linkedin.com/in/pamela-fox-5668b1b4/) has created about 40 hours of talk-throughs to introduce the basics of HTML, CSS, and JavaScript. You may not know any of these basics, in which case it is our recommendation that you work through all of these talk-throughs — although none of the Khan Academy materials are required for this course, and none of your work on Khan Academy will be a part of your grade for this course. These talk-throughs at Khan Academy are simply a very good resource for quickly learning HTML, CSS, and JavaScript.
 
@@ -151,12 +151,14 @@ Keeping this in mind, the following detailed schedule labels the eight projects 
 
 **Reminder: These tutorials have been selected to provide skills and knowledge needed to complete the assignments, but are not strictly required. If you prefer Dan Schiffman’s [The Coding Train](https://thecodingtrain.com) videos (also free), [netnet](https://netnet.studio/), or another online resource or book you prefer to study from, you can do that.**
 
+## Week by Week
+
 ### Week 1
 
 #### Deadlines
 
-* **Project 1: Re-sequencing due before midnight, Friday, October 4**  
-* **Critiques for Project 1 due before midnight, Monday, October** 
+* **Project 1: Re-sequencing due before midnight, Friday, October 3**  
+* **Critiques for Project 1 due before midnight, Monday, October 6** 
 
 #### Resources
 
