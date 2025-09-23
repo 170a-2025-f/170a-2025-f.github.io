@@ -11,6 +11,7 @@ fall term 2025, online
 |              | Zoom link: \[TBD\]  
 
 # **QUICK LINKS**
+* [Link to Matrix/Element Chatroom](https://canvas.ucsc.edu/courses/85147/pages/matrix-slash-element-chatroom) 
 * [Weekly Schedule](#week-by-week)
 * [Code Talkthroughs](https://170a-2025-f.github.io/))
 
@@ -164,38 +165,37 @@ Keeping this in mind, the following detailed schedule labels the eight projects 
 
 ##### Talkthrough
 
-* 
-
 ##### Tutorials
-
+<details><summary>Recommended Tutorials</summary>
 1. Khan Academy: Intro to HTML: [https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/v/making-webpages-intro](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/v/making-webpages-intro)   
-   1. Welcome to the web\!  
-   2. HTML basics  
-   3. Quick tip: HTML tags  
-   4. Challenge: Write a Poem  
-   5. HTML: Text emphasis  
-   6. Challenge: You can learn text tags  
-   7. HTML: Lists  
-   8. HTML: Images  
-      1. Challenge: A picture-perfect trip  
+    1. Welcome to the web\!  
+    2. HTML basics  
+    3. Quick tip: HTML tags  
+    4. Challenge: Write a Poem  
+    5. HTML: Text emphasis  
+    6. Challenge: You can learn text tags  
+    7. HTML: Lists  
+    8. HTML: Images  
+        1. Challenge: A picture-perfect trip  
 2. Khan Academy: Intro to CSS: [https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/pt/css-basics](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/pt/css-basics)  
-   1. CSS Basics  
-   2. Quick tip: Selecting by tag name  
-   3. Challenge: Colorful creature  
-   4. CSS: Selecting by id  
-   5. Challenge: Seasonal ids  
-   6. CSS: Selecting by class  
-   7. Challenge: Apples and bananas classes  
-   8. Using simple CSS selectors  
-   9. Project: Travel webpage  
-1. Khan Academy: More HTML tags: [https://www.khanacademy.org/computing/computer-programming/html-css/html-tags-continued/pt/html-links](https://www.khanacademy.org/computing/computer-programming/html-css/html-tags-continued/pt/html-links)   
-   1. HTML linksChallenge: Links you love  
-   2. HTML internal links  
-   3. Challenge: Jump around  
-   4. HTML tables  
-   5. Challenge: The dinner table  
-   6. HTML comments  
-   7. Project: Recipe book
+    1. CSS Basics  
+    2. Quick tip: Selecting by tag name  
+    3. Challenge: Colorful creature  
+    4. CSS: Selecting by id  
+    5. Challenge: Seasonal ids  
+    6. CSS: Selecting by class  
+    7. Challenge: Apples and bananas classes  
+    8. Using simple CSS selectors  
+    9. Project: Travel webpage  
+3. Khan Academy: More HTML tags: [https://www.khanacademy.org/computing/computer-programming/html-css/html-tags-continued/pt/html-links](https://www.khanacademy.org/computing/computer-programming/html-css/html-tags-continued/pt/html-links)   
+    1. HTML linksChallenge: Links you love  
+    2. HTML internal links  
+    3. Challenge: Jump around  
+    4. HTML tables  
+    5. Challenge: The dinner table  
+    6. HTML comments  
+    7. Project: Recipe book
+</details>
 
 2. Khan Academy: CSS text properties: [https://www.khanacademy.org/computing/computer-programming/html-css/css-text-properties/v/css-zen-garden](https://www.khanacademy.org/computing/computer-programming/html-css/css-text-properties/v/css-zen-garden)  
    1. CSS Zen Garden  
