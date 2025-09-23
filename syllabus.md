@@ -12,7 +12,7 @@ fall term 2025, online
 
 # **QUICK LINKS**
 * [Link to Matrix/Element Chatroom](https://canvas.ucsc.edu/courses/85147/pages/matrix-slash-element-chatroom) 
-* [Weekly Schedule](#week-by-week)
+* [Weekly Schedule](#project-by-project)
 * [Code Talkthroughs](https://170a-2025-f.github.io/))
 
 # **COURSE CATALOG DESCRIPTION**
@@ -152,18 +152,14 @@ Keeping this in mind, the following detailed schedule labels the eight projects 
 
 **Reminder: These tutorials have been selected to provide skills and knowledge needed to complete the assignments, but are not strictly required. If you prefer Dan Schiffman’s [The Coding Train](https://thecodingtrain.com) videos (also free), [netnet](https://netnet.studio/), or another online resource or book you prefer to study from, you can do that.**
 
-## Week by Week
+## Project by Project
 
-### Week 1
+### Project 1
 
 #### Deadlines
 
 * **Project 1: Re-sequencing due before midnight, Friday, October 3**  
 * **Critiques for Project 1 due before midnight, Monday, October 6** 
-
-#### Resources
-
-##### Talkthrough
 
 ##### Tutorials
 <details><summary>Recommended Tutorials</summary>
@@ -198,99 +194,96 @@ Keeping this in mind, the following detailed schedule labels the eight projects 
     7. Project: Recipe book
 </details>
 
-2. Khan Academy: CSS text properties: [https://www.khanacademy.org/computing/computer-programming/html-css/css-text-properties/v/css-zen-garden](https://www.khanacademy.org/computing/computer-programming/html-css/css-text-properties/v/css-zen-garden)  
-   1. CSS Zen Garden  
-   2. CSS font-family property  
-   3. Challenge: Fancy font families  
-   4. CSS font-size property  
-   5. Challenge: Great big font sizes  
-   6. CSS font styles and shorthand  
-   7. Challenge: Famous font formats  
-   8. More CSS text properties  
-   9. Using CSS text properties  
-   10. CSS inheritance  
-   11. Project: Blog  
-3. Khan Academy: Web development tools: [https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/using-the-browser-developer-tools](https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/using-the-browser-developer-tools)
+----
 
-   Using the browser developer tools
+### Project 2
 
-   Developing webpages outside of Khan Academy
+#### Deadlines
 
-   Hosting your website on a server
+* **Project 2: Collage and Concrete Poetry due before midnight, Friday, October 10**
+* **Critiques for Project 2 due before midnight, Monday, October 13**  
 
-   Hosting your website on Github
+##### Tutorials
+<details><summary>Recommended Tutorials</summary>
 
-4. Khan Academy: CSS layout: [https://www.khanacademy.org/computing/computer-programming/html-css/css-layout-properties/pt/css-grouping-elements](https://www.khanacademy.org/computing/computer-programming/html-css/css-layout-properties/pt/css-grouping-elements)
+1. Khan Academy: CSS text properties: [https://www.khanacademy.org/computing/computer-programming/html-css/css-text-properties/v/css-zen-garden](https://www.khanacademy.org/computing/computer-programming/html-css/css-text-properties/v/css-zen-garden)  
+    1. CSS Zen Garden  
+    2. CSS font-family property  
+    3. Challenge: Fancy font families  
+    4. CSS font-size property  
+    5. Challenge: Great big font sizes  
+    6. CSS font styles and shorthand  
+    7. Challenge: Famous font formats  
+    8. More CSS text properties  
+    9. Using CSS text properties  
+    10. CSS inheritance  
+    11. Project: Blog  
+2. Khan Academy: Web development tools: [https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/using-the-browser-developer-tools](https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/using-the-browser-developer-tools)
+    1. Using the browser developer tools
+    2. Developing webpages outside of Khan Academy
+    3. Hosting your website on a server
+    4. Hosting your website on Github
+3. Khan Academy: CSS layout: [https://www.khanacademy.org/computing/computer-programming/html-css/css-layout-properties/pt/css-grouping-elements](https://www.khanacademy.org/computing/computer-programming/html-css/css-layout-properties/pt/css-grouping-elements)
+    1. CSS grouping elements
+    2. Challenge: Group the groupers
+    3. CSS width, height, and overﬂow
+    4. Challenge: The overﬂowing ocean
+    5. CSS box model
+    6. Challenge: The boxer model
+    7. CSS position
+    8. Challenge: Position planet
+    9. CSS in the wild: Google Maps
+    10. CSS ﬂoating elements
+    11. Challenge: Floating clouds
+    12. Using CSS layout properties
+    13. Planning your webpage
+    14. Project: Event invite
+4. W3Schools: CSS transform Property: [https://www.w3schools.com/cssref/css3\_pr\_transform.asp](https://www.w3schools.com/cssref/css3_pr_transform.asp)  
 
-   CSS grouping elements
+</details>
 
-   Challenge: Group the groupers
+----
 
-   CSS width, height, and overﬂow
+### Project 3
 
-   Challenge: The overﬂowing ocean
+#### Deadlines
 
-   CSS box model
+* **Project 3: Montage due before midnight, Friday, October 17**
+* **Critiques for Project 3 due before midnight, Monday, October 20**
 
-   Challenge: The boxer model
+##### Tutorials
+<details><summary>Recommended Tutorials</summary>
+   
+1. Khan Academy: More CSS selectors: [https://www.khanacademy.org/computing/computer-programming/html-css/more-css-selectors/pt/using-multiple-css-classes](https://www.khanacademy.org/computing/computer-programming/html-css/more-css-selectors/pt/using-multiple-css-classes)
+    1. Using multiple CSS classes
+    2. Challenge: A classy gallery
+    3. Combining CSS class and element selectors
+    4. Challenge: Classes of elements
+    5. CSS descendant selectors
+    6. Challenge: Descendants of Khan  
+    7. Grouping CSS selectors  
+    8. CSS dynamic pseudo-classes  
+    9. Challenge: Grouped animals  
+    10. CSS speciﬁcity  
+    11. CSS speciﬁcity rules  
+2. Khan Academy: Other ways to embed CSS: https://www.khanacademy.org/computing/computer-programming/html-css/more-ways-to-embed-css/pt/using-inline-css-styles  
+    1. Using inline CSS styles  
+    2. Using external stylesheets  
+3. CSS3  
+    1. CSS3 selectors: https://www.teaching-materials.org/\_deprecated/css3-selectors/  
+    2. CSS3 properties: https://www.teaching-materials.org/css3-fx/  
+4. Khan Academy: Further Learning: https://www.khanacademy.org/computing/computer-programming/html-css/html-css-further-learning/a/webpage-design  
+    1. Webpage design  
+    2. HTML validation  
+    3. Validating HTML  
+    4. What to learn next  
+5. The \<video\> tag  
+    1. W3Schools: https://www.w3schools.com/tags/tag_video.asp  
+    2. W3c: https://www.w3.org/2010/05/video/mediaevents.html  
 
-   CSS position
+</details>
 
-   Challenge: Position planet
 
-   CSS in the wild: Google Maps
-
-   CSS ﬂoating elements
-
-   Challenge: Floating clouds
-
-   Using CSS layout properties
-
-   Planning your webpage
-
-   Project: Event invite
-
-5. W3Schools: CSS transform Property: [https://www.w3schools.com/cssref/css3\_pr\_transform.asp](https://www.w3schools.com/cssref/css3_pr_transform.asp)  
-6. **Project 2: Collage and Concrete Poetry due before midnight, Friday, October 11**  
-7. **Critiques for Project 2 due before midnight, Monday, October 14**  
-8. Khan Academy: More CSS selectors: [https://www.khanacademy.org/computing/computer-programming/html-css/more-css-selectors/pt/using-multiple-css-classes](https://www.khanacademy.org/computing/computer-programming/html-css/more-css-selectors/pt/using-multiple-css-classes)
-
-   Using multiple CSS classes
-
-   Challenge: A classy gallery
-
-   Combining CSS class and element selectors
-
-   Challenge: Classes of elements
-
-   CSS descendant selectors
-
-12.6.Challenge: Descendants of Khan  
-12.7.Grouping CSS selectors  
-12.8.CSS dynamic pseudo-classes  
-12.9.Challenge: Grouped animals  
-12.10.CSS speciﬁcity  
-12.11.CSS speciﬁcity rules  
-13\. Khan Academy: Other ways to embed CSS: https://www.khanacademy.org/  
-computing/computer-programming/html-css/more-ways-to-embed-css/pt/using-  
-inline-css-styles  
-1113.1.Using inline CSS styles  
-13.2.Using external stylesheets  
-14\. CSS3  
-14.1.CSS3 selectors: https://www.teaching-materials.org/\_deprecated/css3-  
-selectors/  
-14.2. CSS3 properties: https://www.teaching-materials.org/css3-fx/  
-15\. Khan Academy: Further Learning: https://www.khanacademy.org/computing/  
-computer-programming/html-css/html-css-further-learning/a/webpage-design  
-1\. Webpage design  
-2\. HTML validation  
-3\. Validating HTML  
-4\. What to learn next  
-16\. The \<video\> tag  
-1\. W3Schools: https://www.w3schools.com/tags/tag\_video.asp  
-2\. W3: https://www.w3.org/2010/05/video/mediaevents.html  
-17\. Project 3: Montage due before midnight, Friday, October 18  
-18\. Critiques for Project 3 due before midnight, Monday, October 21  
 19\. Khan Academy: Intro to programming: https://www.khanacademy.org/computing/  
 computer-programming/programming/intro-to-programming/v/programming-intro  
 19.1.What is Programming?  
