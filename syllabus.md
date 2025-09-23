@@ -167,6 +167,7 @@ Keeping this in mind, the following detailed schedule labels the eight projects 
 
 ##### Tutorials
 <details><summary>Recommended Tutorials</summary>
+
 1. Khan Academy: Intro to HTML: [https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/v/making-webpages-intro](https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/v/making-webpages-intro)   
     1. Welcome to the web\!  
     2. HTML basics  
