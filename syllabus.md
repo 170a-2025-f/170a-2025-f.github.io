@@ -150,7 +150,7 @@ Pamela Fox, former Chief Content Creator for Computer Science at Khan Academy th
 
 Keeping this in mind, the following detailed schedule labels the eight projects with due dates and places them within the sequence of Khan Academy talk-throughs with the assumption that the material covered in those talk-throughs (and a few other referenced sites of tutorials) will be familiar to you before you start the course projects. Each Khan Academy talk-through takes about ﬁve minutes to complete.
 
-**Reminder: These tutorials have been selected to provide skills and knowledge needed to complete the assignments, but are not strictly required. If you prefer Dan Schiffman’s [The Coding Train](https://thecodingtrain.com) videos (also free), [netnet](https://netnet.studio/), or another online resource or book you prefer to study from, you can do that.**
+**Reminder: These tutorials have been selected as a _reference_ to provide skills and knowledge needed to complete the assignments, but are not strictly required. If you prefer Dan Schiffman’s [The Coding Train](https://thecodingtrain.com) videos (also free), [netnet](https://netnet.studio/), or another online resource or book you prefer to study from, you can do that. If you pay close attention, the code talkthroughs might be enough for you.**
 
 ## Project by Project
 
@@ -283,160 +283,151 @@ Keeping this in mind, the following detailed schedule labels the eight projects 
 
 </details>
 
+### Project 4
 
-19\. Khan Academy: Intro to programming: https://www.khanacademy.org/computing/  
-computer-programming/programming/intro-to-programming/v/programming-intro  
-19.1.What is Programming?  
-19.2.Learning programming on Khan Academy  
-20\. Khan Academy: Drawing basics: https://www.khanacademy.org/computing/  
-computer-programming/programming  
-20.1.Making drawings with code  
-20.2.Quick tip: number scrubbing  
-20.3.Challenge: Simple snowman  
-20.4.Drawing more shapes with code  
-20.5.Challenge: Waving snowman  
-21\. Khan Academy: Coloring: https://www.khanacademy.org/computing/computer-  
-programming/programming/coloring/pt/coloring-with-code  
-21.1.Coloring with code  
-21.2.Quick tip: color picking  
-21.3.Challenge: Sunny snowy day  
-21.4.The Power of the Docs  
-21.5.Project: What's for dinner  
-22\. Khan Academy: Variables: https://www.khanacademy.org/computing/computer-  
-programming/programming/variables/pt/intro-to-variables  
-22.1.Intro to Variables  
-22.2.Using variables  
-22.3.Challenge: Bucktooth Bunny  
-22.4.More on Variables  
-22.5.Challenge: Funky Frog  
-22.6.Review: Variables  
-23\. Khan Academy: Animation basics: https://www.khanacademy.org/computing/  
-computer-programming/programming/animation-basics/a/what-are-animations  
-23.1.What are animations?  
-1223.2.Making animations  
-23.3.Challenge: Exploding Sun  
-23.4.Incrementing shortcuts  
-23.5.A shorter shortcut  
-23.6.Challenge: Parting Clouds  
-23.7.Project: Shooting star  
-24\. HTML \<canvas\> tag tutorial: https://www.w3schools.com/graphics/  
-canvas\_intro.asp  
-25\. Khan Academy: Interactive programs: https://www.khanacademy.org/computing/  
-computer-programming/programming/interactive-programs/pt/mouse-interaction  
-25.1.Mouse Interaction  
-25.2.Challenge: Tasty Tomato  
-25.3.Challenge: Mouse movement mania  
-26\. Khan Academy: Becoming a community coder: https://www.khanacademy.org/  
-computing/computer-programming/programming/becoming-a-community-coder/a/  
+#### Deadlines
+
+* **Project 4: Instructions for Drawings due before midnight, Friday, October 25**
+* **Critiques for Project 4 due before midnight, Monday, October 28** 
+
+##### Tutorials
+
+<details><summary>Recommended Tutorials</summary>
+   
+1. Khan Academy: Intro to programming: https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro  
+    1. What is Programming?  
+    2. Learning programming on Khan Academy  
+2. Khan Academy: Drawing basics: https://www.khanacademy.org/computing/computer-programming/programming  
+    1. Making drawings with code  
+    2. Quick tip: number scrubbing  
+    3. Challenge: Simple snowman   
+    4. Drawing more shapes with code  
+    5. Challenge: Waving snowman  
+3. Khan Academy: Coloring: https://www.khanacademy.org/computing/computer-programming/programming/coloring/pt/coloring-with-code  
+    1. Coloring with code  
+    2. Quick tip: color picking  
+    3. Challenge: Sunny snowy day  
+    4. The Power of the Docs  
+    5. Project: What's for dinner  
+4. Khan Academy: Variables: https://www.khanacademy.org/computing/computer-programming/programming/variables/pt/intro-to-variables  
+    1. Intro to Variables  
+    2. Using variables  
+    3. Challenge: Bucktooth Bunny  
+    4. More on Variables  
+    5. Challenge: Funky Frog  
+    6. Review: Variables  
+5. Khan Academy: Animation basics: https://www.khanacademy.org/computing/computer-programming/programming/animation-basics/a/what-are-animations  
+    1. What are animations?  
+    2. Making animations  
+    3. Challenge: Exploding Sun  
+    4. Incrementing shortcuts  
+    5. A shorter shortcut  
+    6. Challenge: Parting Clouds  
+    7. Project: Shooting star  
+6. HTML \<canvas\> tag tutorial: https://www.w3schools.com/graphics/canvas\_intro.asp  
+7. Khan Academy: Interactive programs: https://www.khanacademy.org/computing/computer-programming/programming/interactive-programs/pt/mouse-interaction  
+    8. Mouse Interaction  
+    9. Challenge: Tasty Tomato  
+    10. Challenge: Mouse movement mania  
+8. Khan Academy: Becoming a community coder: https://www.khanacademy.org/computing/computer-programming/programming/becoming-a-community-coder/a/  
 evaluate-peer-projects  
-26.1.Evaluate peer projects  
-26.2.Ask for help  
-27\. Khan Academy: Bonus: Resizing with variables: https://www.khanacademy.org/  
-computing/computer-programming/programming/resizing-with-variables/a/using-  
+    1. Evaluate peer projects  
+    2. Ask for help  
+9. Khan Academy: Bonus: Resizing with variables: https://www.khanacademy.org/computing/computer-programming/programming/resizing-with-variables/a/using-  
 math-expressions-in-js  
-27.1.Using math expressions in JS  
-27.2.Resizing shapes with variable expressions  
-27.3.Using variable expressions  
-27.4.Challenge: Brown bear eyes  
-27.5.Project: Animal attack  
-28\. Khan Academy: Text and strings: https://www.khanacademy.org/computing/  
-computer-programming/programming/text-basics/pt/terriﬁc-text-part-one  
-28.1.Terriﬁc Text: Part One  
-28.2.Challenge: My Favorite Foods  
-28.3.Terriﬁc Text: Part Two  
-28.4.Challenge: Mouse Tracker  
-28.5.Review: text and strings  
-28.6.Project: Ad design  
-29\. Khan Academy: Functions: https://www.khanacademy.org/computing/computer-  
-programming/programming/functions/pt/functions  
-29.1.Challenge: Say Your Name  
-29.2.Function Parameters  
-29.3.Challenge: Moles in Holes  
-29.4.Function Return Values  
-29.5.Challenge: Calculator  
-29.6.Local and Global Variables  
-29.7.Special ProcessingJS functions  
-29.8.Review: Functions  
-29.9.Project: Fish tank  
-1330\. Khan Academy: Logic and if Statements: https://www.khanacademy.org/  
-computing/computer-programming/programming/logic-if-statements/pt/if-  
+    1. Using math expressions in JS  
+    2. Resizing shapes with variable expressions  
+    3. Using variable expressions  
+    4. Challenge: Brown bear eyes  
+    5. Project: Animal attack  
+10. Khan Academy: Text and strings: https://www.khanacademy.org/computing/computer-programming/programming/text-basics/pt/terriﬁc-text-part-one  
+    1. Terriﬁc Text: Part One  
+    2. Challenge: My Favorite Foods  
+    3. Terriﬁc Text: Part Two  
+    4. Challenge: Mouse Tracker  
+    5. Review: text and strings  
+    6. Project: Ad design  
+11. Khan Academy: Functions: https://www.khanacademy.org/computing/computer-programming/programming/functions/pt/functions  
+    1. Challenge: Say Your Name  
+    2. Function Parameters  
+    3. Challenge: Moles in Holes  
+    4. Function Return Values  
+    5. Challenge: Calculator  
+    6. Local and Global Variables  
+    7. Special ProcessingJS functions  
+    8. Review: Functions  
+    9. Project: Fish tank  
+12. Khan Academy: Logic and if Statements: https://www.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pt/if-  
 statements  
-30.1.If Statements  
-30.2.Challenge: Bouncy Ball  
-30.3.More Mouse Interaction  
-30.4.Challenge: Your First Painting App  
-30.5.Booleans  
-30.6.Challenge: Number Analyzer  
-30.7.Logical Operators  
-30.8.Challenge: Your First Button  
-30.9.Challenge: Smarter Button  
-30.10.If/Else \- Part 1  
-30.11.Challenge: Flashy Flash Card  
-30.12.If/Else \- Part 2  
-30.13.Review: Logic and if Statements  
-30.14.Random numbers  
-30.15.Project: Magic 8-Ball  
-31\. Khan Academy: Debugging programs: https://www.khanacademy.org/computing/  
-computer-programming/programming/debugging-programs/pt/debugging-with-  
-printlns  
-31.1.Debugging with println()s  
-31.2.More debugging tips  
-32\. Khan Academy: Looping: https://www.khanacademy.org/computing/computer-  
-programming/programming/looping/pt/intro-to-while-loops  
-32.1.Intro to While Loops  
-32.2.Using while loops  
-32.3.Challenge: A Loopy Ruler  
-32.4.More While Loops: Balloon Hopper  
-32.5.Challenge: A Loopy Landscape  
-32.6.For Loops\! A New Kind of Loop  
-32.7.Challenge: Lined Paper  
-32.8.Nested For Loops  
-32.9.Review: Looping  
-32.10.Project: Build-a-House  
-33\. Khan Academy: Writing clean code: https://www.khanacademy.org/computing/  
-computer-programming/programming/writing-clean-code/pt/readable-code  
-33.1.Readable Code  
-33.2.Clarifying with Comments  
-33.3.Writing clean code  
-34\. Khan Academy: Arrays: https://www.khanacademy.org/computing/computer-  
-programming/programming/arrays/pt/intro-to-arrays  
-34.1.Intro to Arrays  
-34.2.Challenge: Favorite Fruits  
-34.3.Looping through Arrays  
-34.4.Challenge: Favorite Animals  
-1434.5.Modifying Arrays  
-34.6.Challenge: Constellation Maker  
-34.7.Review: Arrays  
-34.8.Project: Make it rain  
-35\. Khan Academy: Objects: https://www.khanacademy.org/computing/computer-  
-programming/programming/objects/pt/intro-to-objects  
-35.1.Intro to Objects  
-35.2.Challenge: Recipe Card  
-35.3.Modifying Objects  
-35.4.Challenge: Picture Painter  
-35.5.Arrays of Objects  
-35.6.Challenge: Movie Reviews  
-35.7.Review: Objects  
-35.8.Project: Bookshelf  
-36\. Khan Academy: Object-Oriented Design: https://www.khanacademy.org/  
-computing/computer-programming/programming/object-oriented/pt/object-types  
-36.1.Object Types  
-36.2.Challenge: Double Rainbow  
-36.3.Object Methods  
-36.4.Challenge: SmileyFace  
-36.5.Object Inheritance  
-36.6.Challenge: Flower Grower  
-36.7.Review: Object-Oriented Design  
-37\. Khan Academy: Becoming a better programmer: https://www.khanacademy.org/  
-computing/computer-programming/programming/good-practices/a/planning-a-  
+    1. If Statements  
+    2. Challenge: Bouncy Ball  
+    3. More Mouse Interaction  
+    4. Challenge: Your First Painting App  
+    5. Booleans  
+    6. Challenge: Number Analyzer  
+    7. Logical Operators  
+    8. Challenge: Your First Button  
+    9. Challenge: Smarter Button  
+    10. If/Else \- Part 1  
+    11. Challenge: Flashy Flash Card  
+    12. If/Else \- Part 2  
+    13. Review: Logic and if Statements  
+    14. Random numbers  
+    15. Project: Magic 8-Ball  
+13. Khan Academy: Debugging programs: https://www.khanacademy.org/computing/computer-programming/programming/debugging-programs/pt/debugging-with-printlns  
+    1. Debugging with println()s  
+    2 .More debugging tips  
+14. Khan Academy: Looping: https://www.khanacademy.org/computing/computer-programming/programming/looping/pt/intro-to-while-loops  
+    1. Intro to While Loops  
+    2. Using while loops  
+    3. Challenge: A Loopy Ruler  
+    4. More While Loops: Balloon Hopper  
+    5. Challenge: A Loopy Landscape  
+    6. For Loops\! A New Kind of Loop  
+    7. Challenge: Lined Paper    
+    8. Nested For Loops  
+    9. Review: Looping  
+    10. Project: Build-a-House  
+15. Khan Academy: Writing clean code: https://www.khanacademy.org/computing/computer-programming/programming/writing-clean-code/pt/readable-code  
+    1. Readable Code  
+    2. Clarifying with Comments  
+    3. Writing clean code  
+16. Khan Academy: Arrays: https://www.khanacademy.org/computing/computer-programming/programming/arrays/pt/intro-to-arrays  
+    1. Intro to Arrays  
+    2. Challenge: Favorite Fruits  
+    3. Looping through Arrays  
+    4. Challenge: Favorite Animals  
+    5. Modifying Arrays  
+    6. Challenge: Constellation Maker  
+    7. Review: Arrays  
+    8. Project: Make it rain  
+17. Khan Academy: Objects: https://www.khanacademy.org/computing/computer-programming/programming/objects/pt/intro-to-objects  
+    1. Intro to Objects  
+    2. Challenge: Recipe Card  
+    3. Modifying Objects  
+    4. Challenge: Picture Painter  
+    5. Arrays of Objects  
+    6. Challenge: Movie Reviews  
+18. Review: Objects  
+    1. Project: Bookshelf  
+    2. Khan Academy: Object-Oriented Design: https://www.khanacademy.org/computing/computer-programming/programming/object-oriented/pt/object-types  
+    3. Object Types  
+    4. Challenge: Double Rainbow  
+    5. Object Methods  
+    6. Challenge: SmileyFace  
+    7. Object Inheritance  
+    8. Challenge: Flower Grower  
+    9. Review: Object-Oriented Design  
+19. Khan Academy: Becoming a better programmer: https://www.khanacademy.org/computing/computer-programming/programming/good-practices/a/planning-a-  
 programming-project  
-37.1.Planning a programming project  
-37.2.Planning with pseudo-code  
-37.3.What to learn next  
-37.4.Help others learn\!  
-38\. Project 4: Instructions for Drawings due before midnight, Friday, October 25  
-39\. Critiques for Project 4 due before midnight, Monday, October 28  
-40\. Khan Academy: Get ready to make your webpages interactive: https://  
+    1. Planning a programming project  
+    2. Planning with pseudo-code  
+    3. What to learn next  
+    4. Help others learn!  
+
+</details>   
+   
+   40\. Khan Academy: Get ready to make your webpages interactive: https://  
 www.khanacademy.org/computing/computer-programming/html-css-js  
 40.1.Welcome to making webpages interactive  
 40.2.Review HTML/CSS  
