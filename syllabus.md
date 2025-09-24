@@ -13,7 +13,7 @@ fall term 2025, online
 # **QUICK LINKS**
 * [Link to Matrix/Element Chatroom](https://canvas.ucsc.edu/courses/85147/pages/matrix-slash-element-chatroom) 
 * [Weekly Schedule](#project-by-project)
-* [Code Talkthroughs](https://170a-2025-f.github.io/))
+* [Code Talkthroughs](https://170a-2025-f.github.io/)
 
 # **COURSE CATALOG DESCRIPTION**
 
