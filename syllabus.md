@@ -290,7 +290,7 @@ Keeping this in mind, the following detailed schedule labels the eight projects 
 * **Project 4: Instructions for Drawings due before midnight, Friday, October 25**
 * **Critiques for Project 4 due before midnight, Monday, October 28** 
 
-##### Tutorials
+##### Tutorials (yes, there are a lot, you have two weeks and many reinforce things you've already learned)
 
 <details><summary>Recommended Tutorials</summary>
    
@@ -426,59 +426,66 @@ programming-project
     4. Help others learn!  
 
 </details>   
+
+### Project 5
+
+#### Deadlines
+
+* **Project 5: Multi-Screen Interactive due before midnight on Friday, November 1**
+* **Critiques for Project 5 due before midnight, Monday, November 4** 
+
+##### Tutorials
+
+<details><summary>Recommended Tutorials</summary>
    
-   40\. Khan Academy: Get ready to make your webpages interactive: https://  
-www.khanacademy.org/computing/computer-programming/html-css-js  
-40.1.Welcome to making webpages interactive  
-40.2.Review HTML/CSS  
-40.3.HTML/CSS recap  
-40.4.Review JavaScript  
-40.5.JavaScript recap  
-41\. Khan Academy: JS and the DOM: https://www.khanacademy.org/computing/  
-computer-programming/html-css-js/js-and-the-dom/pt/putting-js-in-a-webpage  
-41.1.Putting JS in a webpage  
-41.2.Challenge: A scripted script tag  
-41.3.The DOM (Document Object Model)  
-41.4.Understanding the DOM  
-41.5.Debugging webpages with the browser console  
-1542\. Khan Academy: DOM access methods: https://www.khanacademy.org/computing/  
-computer-programming/html-css-js/html-js-dom-access/pt/ﬁnding-elements-by-id  
-42.1.Finding elements by ID  
-42.2.Challenge: ID changer  
-42.3.Finding multiple DOM elements by tag or class name  
-42.4.Challenge: Custom name tags  
-42.5.Finding elements by CSS selector  
-42.6.Challenge: Query modernizer  
-42.7.Summary: DOM access methods  
-43\. Khan Academy: DOM modiﬁcation: https://www.khanacademy.org/computing/  
-computer-programming/html-css-js/html-js-dom-modiﬁcation/pt/changing-  
+1. Khan Academy: Get ready to make your webpages interactive: https://www.khanacademy.org/computing/computer-programming/html-css-js  
+    1. Welcome to making webpages interactive  
+    2. Review HTML/CSS  
+    3. HTML/CSS recap  
+    4. Review JavaScript  
+    5. JavaScript recap  
+2. Khan Academy: JS and the DOM: https://www.khanacademy.org/computing/computer-programming/html-css-js/js-and-the-dom/pt/putting-js-in-a-webpage  
+    1. Putting JS in a webpage  
+    2. Challenge: A scripted script tag  
+    3. The DOM (Document Object Model)  
+    4. Understanding the DOM  
+    5. Debugging webpages with the browser console  
+3. Khan Academy: DOM access methods: https://www.khanacademy.org/computing/computer-programming/html-css-js/html-js-dom-access/pt/ﬁnding-elements-by-id  
+    1. Finding elements by ID  
+    2. Challenge: ID changer  
+    3. Finding multiple DOM elements by tag or class name  
+    4. Challenge: Custom name tags  
+    5. Finding elements by CSS selector  
+    6. Challenge: Query modernizer  
+    7. Summary: DOM access methods  
+4. Khan Academy: DOM modiﬁcation: https://www.khanacademy.org/computing/computer-programming/html-css-js/html-js-dom-modiﬁcation/pt/changing-  
 attributes  
-43.1.Changing attributes  
-43.2.Challenge: Avatar attributes  
-43.3.Changing styles  
-43.4.Challenge: Style guide  
-43.5.Changing CSS classes  
-43.6.Challenge: Classiﬁcation  
-43.7.Setting innerHTML and textContent  
-43.8.Challenge: The inside story  
-43.9.Creating elements from scratch  
-43.10.Challenge: Create a solar system  
-43.11.Summary: DOM modiﬁcation techniques  
-44\. Khan Academy: DOM events: https://www.khanacademy.org/computing/computer-  
-programming/html-css-js/html-js-dom-events/v/making-webpages-interactive-  
+    1. Changing attributes  
+    2. Challenge: Avatar attributes  
+    3. Changing styles  
+    4. Challenge: Style guide  
+    5. Changing CSS classes  
+    6. Challenge: Classiﬁcation  
+    7. Setting innerHTML and textContent  
+    8. Challenge: The inside story  
+    9. Creating elements from scratch  
+    10. Challenge: Create a solar system  
+    11. Summary: DOM modiﬁcation techniques  
+5. Khan Academy: DOM events: https://www.khanacademy.org/computing/computer-programming/html-css-js/html-js-dom-events/v/making-webpages-interactive-  
 with-events  
-44.1.Making webpages interactive with events  
-44.2.Adding an event listener  
-44.3.Challenge: Cat Clicker  
-44.4.DOM event types  
-44.5.Using the event properties  
-44.6.Challenge: Cat-stache  
-44.7.Processing forms with events  
-44.8.Challenge: Mad Libs  
-44.9.Preventing default behavior of events  
-44.10.Summary: DOM events  
-45\. Project 5: Multi-Screen Interactive due before midnight on Friday, November 1  
-46\. Critiques for Project 5 due before midnight, Monday, November 4  
+    1. Making webpages interactive with events  
+    2. Adding an event listener  
+    3. Challenge: Cat Clicker  
+    4. DOM event types  
+    5. Using the event properties  
+    6. Challenge: Cat-stache  
+    7. Processing forms with events  
+    8. Challenge: Mad Libs  
+    9. Preventing default behavior of events  
+    10. Summary: DOM events  
+
+</details>
+<!--
 47\. Khan Academy: Using JS libraries in your webpage: https://www.khanacademy.org/  
 computing/computer-programming/html-css-js/using-js-libraries-in-your-webpage/  
 a/whats-a-js-library  
@@ -506,7 +513,7 @@ midnight on Friday, November 22
 ![][image1]
 
 Need something here on how to solve problems, when AI is likely to assist and when it’s likely to hinder, which resources can be trusted (MDN, etc.), which less so (stack overflow, AI) and why. AI *can* be a productivity tool, but using it before you’re capable of recognizing its mistakes is folly. This class is a place of learning, and if you outsource your code you [won’t learn very much](https://www.reddit.com/r/webdev/comments/1nhz953/anyone_else_think_ai_coding_assistants_are_making/).
-
+-->
 # **DRC REMOTE ACCOMMODATIONS**
 
 The Disability Resources Center reduces barriers to inclusion and full participation for students with disabilities by providing support to individually determine reasonable academic accommodations. Operations continue via remote appointments. If you have questions or concerns about exam accommodations or any other disability-related matter, email the DRC Schedulers at drc@ucsc.edu for an appointment.
