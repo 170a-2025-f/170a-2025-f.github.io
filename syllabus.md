@@ -6,9 +6,9 @@ fall term 2025, online
 | --- | --- |
 | instructor | Dr. Abram Stern \<aphid@ucsc.edu\> | 
 | pronouns | _they/them/theirs_ or _he/him/his_ |
-| office hours | on element, by appointment \[TBD\] |
+| office hours | on zoom/element, by appointment \[TBD\] |
 |              | Book a 15 minute appointment here (tbd). |  
-|              | Zoom link: \[TBD\]  
+|              | Zoom link: \[TBD\]  |
 
 # **QUICK LINKS**
 * [Link to Matrix/Element Chatroom](https://canvas.ucsc.edu/courses/85147/pages/matrix-slash-element-chatroom) 
@@ -532,8 +532,8 @@ further-learning-what-to-learn-next
 
 #### Deadlines
    
-* **Project 8: Repeat second draft of one of the previous assignments: due before midnight on Friday, December 5**
-* **Critiques for Project 8 due before midnight, Monday, December 8**
+* **Project 8: Repeat second draft of one of the previous assignments: due before midnight on Friday, December 8**
+* **Critiques for Project 8 due before midnight, Monday, December 10**
 
 
 ---------
@@ -542,8 +542,14 @@ further-learning-what-to-learn-next
 
 ![][image1]
 
-Need something here on how to solve problems, when AI is likely to assist and when it’s likely to hinder, which resources can be trusted (MDN, etc.), which less so (stack overflow, AI) and why. AI *can* be a productivity tool, but using it before you’re capable of recognizing its mistakes is folly. This class is a place of learning, and if you outsource your code you [won’t learn very much](https://www.reddit.com/r/webdev/comments/1nhz953/anyone_else_think_ai_coding_assistants_are_making/).
--->
+AI *can* be a productivity tool, but using it before you’re capable of recognizing its mistakes can be a big time waster. Ostensibly, you're hear to learn something, but if you outsource your code you [won’t learn very much](https://www.reddit.com/r/webdev/comments/1nhz953/anyone_else_think_ai_coding_assistants_are_making/). ~~If~~ When you run into trouble (and ... writing code means writing bugs, so this is an inevitability worth contending with), here are some troubleshooting recommendations:
+
+* Do a literal search for the error message by putting doublequotes around as much of it as you can (but not including the part of an error message that includes the line number or a variable name).
+* Read documentation for the function or feature you're working with. I recommend trying [MDN](https://developer.mozilla.org/en-US/) first, then w3schools or other resources.
+* Ask for help! Hop on our element chat and include as much information as you can; link to broken code if possible, describe what you expect and what's happening instead.
+* When we find working code on another resource (like in the comments on stackoverflow), it's okay (in terms of this course and international copyright law) to copy and paste it! It is subject to a license that requires attribution, specifically: the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. So please include a link to the resource you're copying code from in a comment!
+
+
 # **DRC REMOTE ACCOMMODATIONS**
 
 The Disability Resources Center reduces barriers to inclusion and full participation for students with disabilities by providing support to individually determine reasonable academic accommodations. Operations continue via remote appointments. If you have questions or concerns about exam accommodations or any other disability-related matter, email the DRC Schedulers at drc@ucsc.edu for an appointment.
