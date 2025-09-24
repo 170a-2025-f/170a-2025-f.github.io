@@ -283,12 +283,14 @@ Keeping this in mind, the following detailed schedule labels the eight projects 
 
 </details>
 
+----
+
 ### Project 4
 
 #### Deadlines
 
-* **Project 4: Instructions for Drawings due before midnight, Friday, October 25**
-* **Critiques for Project 4 due before midnight, Monday, October 28** 
+* **Project 4: Instructions for Drawings due before midnight, Friday, October 31**
+* **Critiques for Project 4 due before midnight, Monday, October 03** 
 
 ##### Tutorials (yes, there are a lot, you have two weeks and many reinforce things you've already learned)
 
@@ -427,12 +429,14 @@ programming-project
 
 </details>   
 
+----
+
 ### Project 5
 
 #### Deadlines
 
-* **Project 5: Multi-Screen Interactive due before midnight on Friday, November 1**
-* **Critiques for Project 5 due before midnight, Monday, November 4** 
+* **Project 5: Multi-Screen Interactive due before midnight on Friday, November 7**
+* **Critiques for Project 5 due before midnight, Monday, November 11  (This is a Tuesday deadline because Monday, the 10th is Veteran’s Day.)** 
 
 ##### Tutorials
 
@@ -485,28 +489,54 @@ with-events
     10. Summary: DOM events  
 
 </details>
-<!--
-47\. Khan Academy: Using JS libraries in your webpage: https://www.khanacademy.org/  
-computing/computer-programming/html-css-js/using-js-libraries-in-your-webpage/  
+
+------
+
+### Project 6
+
+#### Deadlines
+
+* **Project 6: {Narrative} Structures due before midnight on Friday, November 14**
+* **Critiques for Project 6 due before midnight, Tuesday, November 17**
+
+##### Tutorials
+
+<details><summary>Recommended Tutorials</summary>
+
+1. Khan Academy: Using JS libraries in your webpage: https://www.khanacademy.org/computing/computer-programming/html-css-js/using-js-libraries-in-your-webpage/  
 a/whats-a-js-library  
-47.1.What's a JS library?  
-47.2.Using a JS library: Slideshow library  
-47.3.Where are JS libraries hosted?  
-47.4.Using JS libraries  
-47.5.The world of JS libraries  
-1647.6.Which JS library should you use?  
-48\. Khan Academy: Further learning: https://www.khanacademy.org/computing/  
-computer-programming/html-css-js/html-css-js-further-learning/a/html-css-js-  
+    1. What's a JS library?  
+    2. Using a JS library: Slideshow library  
+    3. Where are JS libraries hosted?  
+    4. Using JS libraries  
+    5. The world of JS libraries  
+    6. Which JS library should you use?  
+2. Khan Academy: Further learning: https://www.khanacademy.org/computing/computer-programming/html-css-js/html-css-js-further-learning/a/html-css-js-  
 further-learning-what-to-learn-next  
-48.1.What to learn next  
-49\. Project 6: {Narrative} Structures due before midnight on Friday, November 8  
-50\. Critiques for Project 6 due before midnight, Tuesday, November 12 (This is a  
-Tuesday deadline because Monday, the 11th is Veteran’s Day.)  
-51\. Project 7: Database Cinema due before midnight on Friday, November 15  
-52\. Critiques for Project 7 due before midnight, Monday, November 18  
-53\. Project 8: Repeat second draft of one of the previous assignments: due before  
-midnight on Friday, November 22  
-54\. Critiques for Project 8 due before midnight, Monday, November 25
+    1. What to learn next  
+
+</details>
+
+----
+
+### Project 7
+
+#### Deadlines
+
+* **Project 7: Database Cinema due before midnight on Friday, November 21**
+* **Critiques for Project 7 due before midnight, Monday, November 24**  
+
+------
+
+### Project 8
+
+#### Deadlines
+   
+* **Project 8: Repeat second draft of one of the previous assignments: due before midnight on Friday, December 5**
+* **Critiques for Project 8 due before midnight, Monday, December 8**
+
+
+---------
 
 # **Problemsolving, Resources, and AI/”vibe coding”**
 
