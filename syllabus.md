@@ -6,7 +6,7 @@ fall term 2025, online
 | --- | --- |
 | instructor | Dr. Abram Stern \<aphid@ucsc.edu\> | 
 | pronouns | _they/them/theirs_ or _he/him/his_ |
-| office hours | on zoom/element, by appointment \[TBD\] |
+| office hours | on zoom/element, by appointment Mondays 10-11a, ad hoc on element |
 |              | Book a 15 minute appointment here (tbd). |  
 |              | Zoom link: \[TBD\]  |
 
